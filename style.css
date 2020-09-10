@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #539DC2;
+}
+
 h1,
 h2,
 h3,
@@ -42,23 +46,23 @@ html {
   }
 
   .colored {
-    background-color: #539DC2;
+    background-color: var(--primary-color);;
     color: white;
   }
 
 
 .icon-alone {
-  color: #539DC2;
+  color: var(--primary-color);
   font-size: 50px; }
 
 .main-icon {
   width: 200px;
   height: 200px;
-  border: 3px solid #539DC2;
+  border: 3px solid var(--primary-color);;
   font-size: 30px;
   border-radius: 50%;
   margin: auto;
-  color: #539DC2;
+  color: var(--primary-color);
   position: relative; }
   .main-icon div {
     position: absolute;
