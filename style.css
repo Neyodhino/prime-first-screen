@@ -41,17 +41,9 @@ html {
     margin-right: 30px; 
   }
 
-  .footer-icon-colored {
+  .colored {
     background-color: #539DC2;
-    width: 60px;
-    height: 60px;
-    line-height: 60px;
-    text-align: center;
-    border: 1px solid #dfdfdf;
-    border-radius: 50px;
-    font-size: 30px;
-    color: #fff; 
-    margin-right: 30px;
+    color: white;
   }
 
 
